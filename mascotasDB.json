@@ -1,0 +1,42 @@
+[
+    {
+        "nombre": "Margo",
+        "especie": "Perro",
+        "color": "Marron",
+        "edad": 3,
+        "peso": 15,
+        "altura": 0.5
+    },
+    {
+        "nombre": "Luna",
+        "especie": "Conejo",
+        "color": "Blanco",
+        "edad": 2,
+        "peso": 1.5,
+        "altura": 0.25
+    },
+    {
+        "nombre": "Charlie",
+        "especie": "Perro",
+        "color": "Blanco",
+        "edad": 5,
+        "peso": 20,
+        "altura": 0.6
+    },
+    {
+        "nombre": "Whiskers",
+        "especie": "Gato",
+        "color": "Gris",
+        "edad": 1,
+        "peso": 4,
+        "altura": 0.25
+    },
+    {
+        "nombre": "Roco",
+        "especie": "Perro",
+        "color": "Negro",
+        "edad": 5,
+        "peso": 25.5,
+        "altura": 0.6
+    }
+]
